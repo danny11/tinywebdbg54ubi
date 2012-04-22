@@ -54,7 +54,7 @@ IntroMessage = '''
 <td><image src="/images/customLogo.gif" width="200" hspace="10"></td>
 <td>
 <p>
-This web service is designed to work with <a
+This web service is designed to aristooooo work with <a
 href="http://appinventor.googlelabs.com">App Inventor
 for Android</a> and the TinyWebDB component. The end-goal of this service is
 to communicate with a mobile app created with App Inventor.
