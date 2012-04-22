@@ -192,7 +192,7 @@ def write_page_header(self, user):
      <title>Tiny WebDB</title>
      </head>
      <body>''')
-  self.response.out.write('<h2>App Inventor for Android: Custom Tiny WebDB Service</h2>')
+  self.response.out.write('<h2>App Inventor for aristooooo: Custom Tiny WebDB Service</h2>')
   if user != None:
     self.response.out.write('<p>User &quot;%s&quot;</p>' % (user))
 
